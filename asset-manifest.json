@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-M2-CW1-Counter/static/css/main.2cee37ab.css",
+    "main.js": "/React-M2-CW1-Counter/static/js/main.d3cba84a.js",
+    "index.html": "/React-M2-CW1-Counter/index.html",
+    "main.2cee37ab.css.map": "/React-M2-CW1-Counter/static/css/main.2cee37ab.css.map",
+    "main.d3cba84a.js.map": "/React-M2-CW1-Counter/static/js/main.d3cba84a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cee37ab.css",
+    "static/js/main.d3cba84a.js"
+  ]
+}
